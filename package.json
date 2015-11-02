@@ -1,0 +1,14 @@
+{
+  "name": "angular-material-table",
+  "version": "0.1.0",
+  "dependencies": {},
+  "repository": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-loadnpmtasks": "*"
+  },
+  "engines": {},
+  "scripts": {}
+}

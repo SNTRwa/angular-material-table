@@ -1,0 +1,31 @@
+{
+  "name": "angular-material-table",
+  "version": "0.1.0",
+  "authors": [
+    "SNTR <sntr@protonmail.com>"
+  ],
+  "description": "Angular matarial table is simply directive that allows you with no effort make good looking table in Google Material style.",
+  "main": [
+      "angular-material-table.min.js",
+      "angular-material-table.css"
+  ],
+  "keywords": [
+    "angular",
+    "material",
+    "design",
+    "table",
+    "sorting",
+    "pagination",
+    "search"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/SNTRwa/angular-material-table",
+  "dependencies": {
+    "angular": ">1.3.x",
+    "angular-material": ">0.11.4"
+  },
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ]
+}
